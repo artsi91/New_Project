@@ -1,5 +1,4 @@
 # New File
-foo <- 'that'
-bar <- 'this'
+foo <- 42
 
-buz <- foo+bar
+newvar <- 31
