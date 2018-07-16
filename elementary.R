@@ -1,2 +1,5 @@
 # New File
-foo <- 1
+foo <- 'that'
+bar <- 'this'
+
+foo+bar
