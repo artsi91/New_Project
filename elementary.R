@@ -1,2 +1,4 @@
 # New File
-foo <- 1
+foo <- 42
+
+newvar <- 31
