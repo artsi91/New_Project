@@ -7,6 +7,12 @@
 This text is *italic*, and this is **bold**.
 _This is italic_ and __bold__.
 
+```R
+foo <- function(arg1,arg2){
+    a lot of bs
+}
+```
+
 Ordered List:
 1. proto
 1. deutero
@@ -23,8 +29,4 @@ Bulleted List:
 
 use the `cd` command
 
-```R
-foo <- function(arg1,arg2){
-    a lot of bs
-}
-```
+
