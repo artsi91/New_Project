@@ -2,4 +2,4 @@
 foo <- 'that'
 bar <- 'this'
 
-foo+bar
+buz <- foo+bar
